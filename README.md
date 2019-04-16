@@ -20,9 +20,12 @@ pip install muselsl
 
 ## Built With
 
-* [Python](https://www.python.org/) - Server side language used
-* [Firebase](https://firebase.com) - Realtime database
+* [Python](https://www.python.org/) - General purpose server side language used
+![Python](img/python.png)
+* [Firebase](https://firebase.com) - Realtime database created by Google
+![Firebase](img/firebase.png)
 * [Muse LSL](https://github.com/alexandrebarachant/muse-lsl) - Open source library to interpret EEG data from muse 2
+![Musedev](img/musedev.png)
 
 ## Authors
 
